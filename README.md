@@ -1,5 +1,5 @@
 <h1 align="center">I'm a Content Creator called "Bluegnarl"</h1>
-<img align="center" src="https://i.imgur.com/WRka0Wu.png"></img>
+<img align="center" width="50" src="https://i.imgur.com/WRka0Wu.png"></img>
 <h3 align="center">I'm a passionate developper and designer</h3>
 
 <h3 align="left">Connect with me:</h3>
