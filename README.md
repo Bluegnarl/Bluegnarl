@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@Bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bluegnarl" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/bluegnarl" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" alt="@bluegnarl" height="40" width="40" /></a>
+<a href="https://www.twitch.tv/bluegnarl" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" alt="@bluegnarl" height="30" width="30" /></a>
 <a href="https://instagram.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bluegnarl" height="30" width="40" /></a>
 <a href="https://twitter.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bluegnarl" height="30" width="40" /></a>
 
