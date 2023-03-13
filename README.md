@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
 </div>
 <h1 align="center">Hi, I'm Bluegnarl !</h1>
-<h3 align="center">I'm a passionate Content Creator, Developper and Designer</h3>
+<h3 align="center">I'm a passionate Content Creator, Developper and Designer.</h3>
 
 <h3 align="left">Social Networks :</h3>
 <p align="left">
