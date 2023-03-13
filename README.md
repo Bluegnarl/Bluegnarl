@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bluegnarl !</h1>
-<div align="center"><img height="250" src="https://i.imgur.com/WRka0Wu.png"></img></div>
+<a align="center" href="https://www.linktr.ee/Bluegnarl"><img height="250" src="https://i.imgur.com/WRka0Wu.png"></img></a>
 <h3 align="center">I'm a passionate developper and designer</h3>
 
 <h3 align="left">My Social Networks :</h3>
