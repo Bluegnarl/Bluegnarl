@@ -3,10 +3,11 @@
 
 <h3 align="left">Social Networks :</h3>
 <p align="left">
-<a href="https://www.youtube.com/@Bluegnarl" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="@bluegnarl" height="35" width="35" /></a>
-<a href="https://www.twitch.tv/bluegnarl" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" alt="@bluegnarl" height="30" width="30" /></a>
-<a href="https://instagram.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bluegnarl" height="30" width="30" /></a>
-<a href="https://twitter.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bluegnarl" height="30" width="30" /></a>
+<a href="https://www.youtube.com/@Bluegnarl" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="bluegnarl youtube" height="35" width="35" /></a>
+<a href="https://www.twitch.tv/bluegnarl" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" alt="bluegnarl twitch" height="30" width="30" /></a>
+<a href="https://tiktok.com/@Bluegnarl" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="bluegnarl tiktok" height="30" width="30" /></a>
+<a href="https://instagram.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bluegnarl instagram" height="30" width="30" /></a>
+<a href="https://twitter.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bluegnarl twitter" height="30" width="30" /></a>
 
 </p>
 
