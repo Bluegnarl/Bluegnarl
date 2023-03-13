@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
+  <img src="https://imgur.com/WRka0Wu" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://linktr.ee/Bluegnarl">
-    <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <div style=""></div>
   </a>
 </div>
