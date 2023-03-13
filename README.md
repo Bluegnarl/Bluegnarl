@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bluegnarl !</h1>
 <div align="center"><a href="https://www.linktr.ee/Bluegnarl"><img height="250" src="https://i.imgur.com/WRka0Wu.png"></img></a></div>
-<h3 align="center">I'm a passionate Content Creator, developper and designer</h3>
+<h3 align="center">I'm a passionate Content Creator, Developper and Designer</h3>
 
 <h3 align="left">My Social Networks :</h3>
 <p align="left">
