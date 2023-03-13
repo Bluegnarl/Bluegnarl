@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi, I'm Bluegnarl !</h1>
 <h3 align="center">I'm a passionate Content Creator, Developper and Designer</h3>
 
