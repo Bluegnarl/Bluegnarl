@@ -1,11 +1,13 @@
 <h1 align="center">I'm a Content Creator called "Bluegnarl"</h1>
-<h3 align="center">I'm a passionate developper</h3>
+<h3 align="center">I'm a passionate developper and designer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bluegnarl" height="30" width="40" /></a>
-<a href="https://instagram.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bluegnarl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bluegnarl" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/bluegnarl" target="blank"><img align="center" src="hhttps://cdn-icons-png.flaticon.com/512/5968/5968819.png" alt="@bluegnarl" height="30" width="40" /></a>
+<a href="https://instagram.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bluegnarl" height="30" width="40" /></a>
+<a href="https://twitter.com/bluegnarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bluegnarl" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
