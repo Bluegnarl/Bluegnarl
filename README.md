@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bluegnarl !</h1>
 <div align="center"><img height="250" src="https://i.imgur.com/WRka0Wu.png"></img></div>
-<h3 align="center">I'm a passionate developper and designer</h3>
+<h3 align="center" style="margin-top: -40px">I'm a passionate developper and designer</h3>
 
 <h3 align="left">My Social Networks :</h3>
 <p align="left">
