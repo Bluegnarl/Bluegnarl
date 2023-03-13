@@ -20,4 +20,4 @@
 </p>
 <h3 align="left">🔥 Stats :</h3>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=bluegnarl&theme=dark&hide_border=true&border_radius=40&date_format=j%20M%5B%20Y%5D"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluegnarl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluegnarl"/></a>
