@@ -22,4 +22,4 @@
 <p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=bluegnarl&theme=dark&hide_border=true&border_radius=40&date_format=j%20M%5B%20Y%5D"/></a></p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluegnarl&layout=compact&bg_color=151515&border_radius=40&title_color=FB8C00&text_color=ffffff&hide_border=true"/></a></p>
 <h3 align="left">🚧 My Projects :</h3>$µ
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=Merciki-copy"/></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=Merciki-copy&bg_color=151515"/></a></p>
