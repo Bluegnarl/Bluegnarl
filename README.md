@@ -24,5 +24,5 @@
 <h3 align="left">🚧 My Projects :</h3>
 <p><a href="https://github.com/FullCycleConceptaria/Merciki-copy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=Merciki-copy&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a>
 <a href="https://github.com/FullCycleConceptaria/rainalert-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=rainalert-react&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a>
-<a href="https://github.com/FullCycleConceptaria/token"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=token&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a></p>
+<a href="https://github.com/FullCycleConceptaria/token"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=token&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a>
 <a href="https://github.com/Bluegnarl/g-sathan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bluegnarl&repo=g-sathan&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a></p>
